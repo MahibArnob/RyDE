@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987573789382",
+    "firebase_url": "https://ryde-5e2e2.firebaseio.com",
+    "project_id": "ryde-5e2e2",
+    "storage_bucket": "ryde-5e2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987573789382:android:742ca154dce69e2b922dc7",
+        "android_client_info": {
+          "package_name": "com.example.ryde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987573789382-2elkop4og8viust6hln35khlbj0mjigo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ryde",
+            "certificate_hash": "6f9a7f0f3fd0c6b142357bc35d803358fe21e275"
+          }
+        },
+        {
+          "client_id": "987573789382-lqva3o8ib1vdfpnp7oup0lks7h8pm7pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByx3BYuSEixvZYEpy-VUREsx-DIiiukGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987573789382-lqva3o8ib1vdfpnp7oup0lks7h8pm7pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
